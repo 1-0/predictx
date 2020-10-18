@@ -3,8 +3,8 @@ Prediction test project
 ## Getting Start
 ### Installation
 - Install or/and check installed git and python3:
-  - `git --version`
-  - `python3 --version`
+  - `git --version` for check or visit https://git-scm.com/ for installation instructions 
+  - `python3 --version` for check or visit https://www.python.org for installation instructions
 - `python3 -m pip install -U pip`
 - `python3 -m pip install -U virtualenv`
 - `python3 -m pip venv predictx`
@@ -13,7 +13,7 @@ Prediction test project
 - `git clone https://github.com/1-0/predictx`
 - `mv predictx src`
 - `cd src`
-- `python3 -m pip install -r Requirements.txt`
+- `python3 -m pi//p install -r Requirements.txt`
 ### Usage
 - `python3 -m jupyter notebook ./data_analysis.ipynb` for  data analysis
 ----------
@@ -39,5 +39,5 @@ As results you must provide a link to your GitHub repo that will include:
 ### Useful links
 1. Kaggle competition kernels will help you to understand data and find some insights.
 2. https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
-3. UNET paper ​ https://arxiv.org/abs/1505.04597
+3. UNET paper https://arxiv.org/abs/1505.04597
 4. Semantic vs instance segmentation https://www.quora.com/What-are-the-differences-between-semantic-segmentation-instance-detection-and-object-proposal
