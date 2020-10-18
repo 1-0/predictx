@@ -9,7 +9,7 @@ Prediction test project
 - `python3 -m pip install -U virtualenv`
 - `python3 -m pip venv predictx`
 - `cd predictx`
-- `source ./bin/activate` in *nix OS or `.\Scripts\activate.bat` in Windows OS
+- `source ./bin/activate` in nix OS or `.\Scripts\activate.bat` in Windows OS
 - `git clone https://github.com/1-0/predictx`
 - `mv predictx src`
 - `cd src`
