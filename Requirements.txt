@@ -35,7 +35,6 @@ Pillow
 pylint
 scikit-learn
 scipy
-Theano
 spyder
 spyder-line-profiler
 spyder-memory-profiler
@@ -44,6 +43,7 @@ spyder-unittest
 SQLAlchemy
 SQLAlchemy-Utils
 Theano
+tensorflow
 virtualenv
 
 # autopep8==1.5

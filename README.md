@@ -11,9 +11,9 @@ Prediction test project
 - `cd predictx`
 - `source ./bin/activate` in nix OS or `.\Scripts\activate.bat` in Windows OS
 - `git clone https://github.com/1-0/predictx`
-- `mv predictx src`
+- `mv predictx src` in nix OS or `move predictx src` in Windows OS
 - `cd src`
-- `python3 -m pi//p install -r Requirements.txt`
+- `python3 -m pip install -r Requirements.txt`
 ### Usage
 - `python3 -m jupyter notebook ./data_analysis.ipynb` for  data analysis
 ----------
